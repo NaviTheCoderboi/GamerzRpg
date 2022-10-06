@@ -1,0 +1,6 @@
+{
+    "name": "gyarados",
+    "health": 50,
+    "attack": 6,
+    "defence": 1.5
+}

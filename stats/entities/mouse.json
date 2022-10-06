@@ -1,0 +1,6 @@
+{
+    "name": "mouse",
+    "health": 20,
+    "attack": 2,
+    "defence": 1.5
+}
