@@ -24,7 +24,7 @@ For example:
 ```
 token=your_token_your
 ```
-3. Type `poetry lock` in the terminal to install the required packages and modules
+3. Type `poetry install` in the terminal to install the required packages and modules
 
 ---
 Note: make sure `poetry` is installed
